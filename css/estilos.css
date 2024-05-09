@@ -1,0 +1,15 @@
+.titulo {
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 3%;
+    text-align: center;
+}
+
+footer {
+    background-color: brown;
+    color: white;
+    height: 8%;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
